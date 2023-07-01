@@ -3,6 +3,10 @@ REST interface for Kerberos' kadmin
 
 This is a REST interface for Kerberos, based on the docs in [web.mit.edu](https://web.mit.edu/kerberos/krb5-1.12/doc/admin/admin_commands/kadmin_local.html).
 
+## IMPORTANT
+
+I didn't move forward with this project, so I'm archiving it.
+
 ## But why?
 
 Why, do you ask? I answer: why not? But seriously, I just wanted to force myself to learn a little more about Kerberos.
